@@ -48,8 +48,8 @@ def meal_command_handler(update, context, meal_type):
         meal_suggestion = MealSuggestion()
         meal_suggestion.meal = meal
         meal_suggestion.meal_type = meal_type
-        ingredients.append("accept")
-        meal_suggestion.ingredients = ingredients
+        meal_suggestion.ingredients = ingredients.copy()
+        meal_suggestion.ingredients.append("accept")
         send_meal_suggestion(update, context, meal_suggestion)
     else:
         add_text_message(update, context, "Yay! Let's order something")
