@@ -1,0 +1,5 @@
+Aloo Parantha: Potato, Onion, Cilantro, Green Chillis
+Gobhi Parantha: Cauliflower, Ginger, Cilantro, Green Chillis
+Paneer Parantha: Paneer, Onion, Green Chillis
+Mooli Parantha: Radish, Ginger, Cilantro, Green Chillis
+Methi Parantha: Fenugreek Leaves, Besan, Curd

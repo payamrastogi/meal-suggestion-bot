@@ -1,0 +1,10 @@
+Toor Dal Tadka: Toor Dal, Onion, Tomato, Ginger, Garlic
+Gujrati Dal: Toor Dal, Peanuts, Tomato, Ginger, Curry Leaves
+Black Masoor Dal: Masoor Dal, Onion, Tomato, Ginger, Garlic
+Urad Dal: Urad Dal, Onion, Tomato, Ginger, Garlic
+Yellow Moong Dal: Yellow Moong Dal, Tomato, Ginger
+Chhole: Kabuli Chana, Onion, Tomato, Ginger, Garlic, Imli paste, Chhole Masala
+Rajma: Rajma, Onion, Tomato, Ginger, Garlic, Cilantro
+White Matar: White Peas, Onion, Tomato, Ginger, Garlic, Imli paste
+Dal Makhani: Urad Dal, Rajma, Chana, Onion, Tomato, Ginger, Garlic, Cream
+Sambhar: Toor Dal, Onion, Tomato, Ginger, Garlic, Carrot, Green Beans, Imli Paste, Sambhar Masala, Curry Leaves

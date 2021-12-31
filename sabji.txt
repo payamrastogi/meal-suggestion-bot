@@ -1,0 +1,24 @@
+Bhindi do pyaaza: okra, onion
+Plain lauki: bottle gourd, tomato, ginger
+Ghiya chane ki dal: bottle gourd, tomato, chana dal, ginger
+Ghiya kofte: bottle gourd, tomato, besan, onion, garlic, ginger, curd
+Aloo gobhi: Potato, Cauliflower, Onion, garlic, ginger, tomato
+Patta gobhi: Potato, Cabbage, Onion, garlic, ginger, tomato
+Baigan Masala: Eggplant, Potato, onion, garlic, ginger, tomato
+Baigan Bharta: Eggplant, onion, garlic, ginger, tomato
+Aloo methi: Potato, Fenugreek Leaves, Tomato
+Aloo Palak: Potato, Spinach, Tomato
+Palak Paneer: Spinach, Onion, Tomato, Garlic, Ginger, Paneer
+Aloo Tamatar: Potato, Tomato
+Matar Paneer Sabji: Paneer, Peas, Onion, Garlic, Ginger, Tomato
+Papad Sabji: Papad, Onion, Tomato, Ginger, Garlic, Curd
+Dum aloo: Baby Potato, Onion, Tomato, Garlic, Ginger, Curd
+Karahi Paneer: Capsicum, Onion, Tomato, Ginger, Garlic, Paneer
+Paneer Butter Masala: Onion, Tomato, Ginger, Garlic, Curd, Paneer
+Malai Kofta: Potato, Paneer, Ginger, Tomato, Onion, Garlic
+Aloo Beans: Potato, Green Beans, Tomato
+Kadhi Pakoda: Besan, Curd, Onion, Tomato, Ginger, Garlic, Green Chillis, Cilantro
+Sev Tamatar: Sev, Curd, Onion, Tomato, Ginger, Garlic
+Mix Veg: Cauliflower, Green Beans, Carrot, Capsicum, Tomato, Onion, Ginger, Garlic
+Pav Bhaji: Cauliflower, Carrot, Capsicum, Tomato, Onion, Ginger, Garlic, Peas, Pab Bhaji Masala
+
