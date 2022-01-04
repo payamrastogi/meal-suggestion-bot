@@ -26,6 +26,7 @@ from _model import *
 meal_request_handler = MealRequestHandler()
 import config_util
 
+
 def sabji_command_handler(update, context):
     """Send a message when the command /s is issued."""
     meal_command_handler(update, context, 'S')
@@ -39,6 +40,11 @@ def dal_command_handler(update, context):
 def parantha_command_handler(update, context):
     """Send a message when the command /p is issued."""
     meal_command_handler(update, context, 'P')
+
+
+def breakfast_command_handler(update, context):
+    """Send a message when the command /b is issued."""
+    meal_command_handler(update, context, 'B')
 
 
 def meal_command_handler(update, context, meal_type):
@@ -71,6 +77,7 @@ def get_selected_options(update):
 
 def poll_handler(update, context):
     logging.info(f"suggestion : {update.poll.question}")
+    logging.info(f"suggestion : {update.poll.question.split(':')[0]}")
     # logging.info(f"correct option : {update.poll.correct_option_id}")
     # logging.info(f"option #1 : {update.poll.options[0]}")
     # logging.info(f"option #2 : {update.poll.options[1]}")
@@ -130,6 +137,7 @@ def help_command_handler(update, context):
                               "/s for sabji suggestion \n "
                               "/p for parantha suggestion \n "
                               "/d for dal suggestion \n "
+                              "/b for breakfast suggestion \n "
                               "/r for reset")
 
 
@@ -205,6 +213,7 @@ def main():
     dp.add_handler(CommandHandler("help", help_command_handler))
     dp.add_handler(CommandHandler("s", sabji_command_handler))
     dp.add_handler(CommandHandler("d", dal_command_handler))
+    dp.add_handler(CommandHandler("b", breakfast_command_handler))
     dp.add_handler(CommandHandler("p", parantha_command_handler))
     dp.add_handler(CommandHandler("r", reset_command_handler))
 

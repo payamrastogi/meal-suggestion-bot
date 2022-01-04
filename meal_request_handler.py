@@ -10,6 +10,7 @@ class MealRequestHandler:
         self.dal_dict, self.dal_ingredient_dict = self.file_handler.process_file('dal.txt')
         self.sabji_dict, self.sabji_ingredient_dict = self.file_handler.process_file('sabji.txt')
         self.parantha_dict, self.parantha_ingredient_dict = self.file_handler.process_file('parantha.txt')
+        self.breakfast_dict, self.breakfast_ingredient_dict = self.file_handler.process_file('breakfast.txt')
 
     def get_random_meal(self, meal_type):
         if meal_type == 'D':
@@ -18,6 +19,9 @@ class MealRequestHandler:
         elif meal_type == 'S':
             copied_dict = self.sabji_dict.copy()
             copied_ingredient_dict = self.sabji_ingredient_dict.copy()
+        elif meal_type == 'B':
+            copied_dict = self.breakfast_dict.copy()
+            copied_ingredient_dict = self.breakfast_ingredient_dict.copy()
         else:
             copied_dict = self.parantha_dict.copy()
             copied_ingredient_dict = self.parantha_ingredient_dict.copy()
