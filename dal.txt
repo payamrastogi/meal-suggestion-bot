@@ -8,3 +8,5 @@ Rajma: Rajma, Onion, Tomato, Ginger, Garlic, Cilantro
 White Matar: White Peas, Onion, Tomato, Ginger, Garlic, Imli paste
 Dal Makhani: Urad Dal, Rajma, Chana, Onion, Tomato, Ginger, Garlic, Cream
 Sambhar: Toor Dal, Onion, Tomato, Ginger, Garlic, Carrot, Green Beans, Imli Paste, Sambhar Masala, Curry Leaves
+Green split: Green Split moong, tomato, onion, garlic, ginger
+Black split: Black split urad, tomato, onion, garlic, ginger
